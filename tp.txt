@@ -1,0 +1,24 @@
+DATOS PERSONALES :
+     - Nombre y Apellido : Nahuel Agüero 
+     - Edad : 21 años
+     - Correo electrónico : nahuelhoussay12@gmail.com
+     - Ciudad de Residencia : Cruz del eje - Córdoba 
+
+EXPERIENCIAS POSITIVAS/NEGATIVAS ACERCA DE LA INSTANCIA DEL INGRESO :
+  * Positivas : Me llevo un buen aprendizaje del ingreso, los profesores son muy atentos a las necesidades de sus alumnos, explican muy bien y detallado.
+  * Negativas : En mi caso no tuve ninguna experiencia negativa. 
+
+HABILIDADES COGNITIVAS : 
+  - Motivación 
+  - Percepción 
+  - Razonamiento
+
+  COMANDOS UTILIZADOS EN GIT : 
+  git init
+  git status
+  git add .
+  git commit -m 
+  git config --global user.email
+  git config --global user.name
+  git remote add origin 
+  git push -u origin root
